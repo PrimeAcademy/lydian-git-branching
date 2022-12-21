@@ -25,3 +25,10 @@ Switch to a feature branch
 ```
 git checkout feature-myles
 ```
+
+
+## Merging Code
+1. Switch to the branch you want to merge into (destination)
+    `git checkout main` (or your destination branch)
+2. Merge the code
+    `git merge --no-ff feature-myles`
