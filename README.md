@@ -1,1 +1,8 @@
-# lydian-git-branching
+# Lydian Git Branching
+
+
+## Git Commands
+
+```
+git branch
+```
