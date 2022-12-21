@@ -13,6 +13,7 @@ Pull down changes made by someone else
 ```
 git pull origin main
 ```
+<<<<<<< HEAD
 
 To create a feature branch
 
@@ -32,3 +33,6 @@ git checkout feature-myles
     `git checkout main` (or your destination branch)
 2. Merge the code
     `git merge --no-ff feature-myles`
+=======
+git branch feature-liam
+>>>>>>> 152ed093704d88d31c0c8c2a88a6c4fcafc5f21f
